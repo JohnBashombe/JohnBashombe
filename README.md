@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnBashombe
-- 👀 I’m interested in Typescript | Java | Dart | Mobile Programming | Web Programming
+- 👀 I’m interested in Typescript | JavaScript | Java | Dart | Rust | PHP
 - 🌱 I’m currently learning Machine 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
