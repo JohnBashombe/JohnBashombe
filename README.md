@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnBashombe
-- 👀 I’m interested in Typescript | JavaScript | Java | Dart | Rust | PHP
-- 🌱 I’m currently learning Machine 
+- 👀 I’m interested ):
+- 🌱 I’m currently learning ): 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
