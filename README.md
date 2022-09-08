@@ -1,6 +1,9 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm John Bashombe</h1>
-<h4 align="center">A freelance full-stack developer and a software engineer and Architect at Umoja Digital Group and Project Manager at MasterPesa Tz Inc.</h4>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer;Mobile+App+Developer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 </div>
 
 <div align="center">
@@ -8,6 +11,16 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<br>
+
+## :sassy_man:  About me
+- :school: I am a `ALumni` at Faculty of Science & Technology at International University of East Africa
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer
+- :student: I’m currently learning: `Machine Learning`
+<br>
+
 
 <div>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -21,6 +34,44 @@
          alt="bashombe" height="30"/></a>
     </p>
 </div>
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages: 
+ - TypeScript 
+ - JavaScript
+ - Java
+ - PHP
+ - Rust
+ - Solidity
+ - Dart
+ - MQL4 and MQL5
+
+### 👉 Backend Technology: 
+- Node JS Express
+- Firebase
+- Java Spring Boot
+- Laravel
+- Solana
+
+### 👉 Frontend Technology: 
+- Next JS
+- React JS
+- Figam
+- Dribble
+
+ ### 👉 IDE: 
+ - Visual Studio Code
+ 
+ ### 👉 Operating Systems: 
+ - Ubuntu
+ - Windows
+ 
+ ### 👉 Other Skills: 
+ - Forex Trading
+ 
+<br/>
 
   <div>
     <h2 align="center"> 📊 My Github Profile Stats </h2>
