@@ -41,25 +41,13 @@
 ### 👉 Programming languages: 
  - TypeScript 
  - JavaScript
- - Java
- - PHP
- - Rust
- - Solidity
- - Dart
- - MQL4 and MQL5
 
 ### 👉 Backend Technology: 
 - Node JS Express
-- Firebase
-- Java Spring Boot
-- Laravel
-- Solana
 
 ### 👉 Frontend Technology: 
 - Next JS
 - React JS
-- Figam
-- Dribble
 
  ### 👉 IDE: 
  - Visual Studio Code
@@ -67,9 +55,6 @@
  ### 👉 Operating Systems: 
  - Ubuntu
  - Windows
- 
- ### 👉 Other Skills: 
- - Forex Trading
  
 <br/>
 
