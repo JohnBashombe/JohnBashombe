@@ -15,7 +15,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `ALumni` at Faculty of Science & Technology at International University of East Africa
+- :school: I am a `Alumni` at Faculty of Science & Technology at International University of East Africa
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer
 - :student: I’m currently learning: `Machine Learning`
@@ -59,7 +59,7 @@
 <br/>
 
   <div>
-    <h2 align="center"> 📊 My Github Profile Stats </h2>
+    <h2 align="center"> 📊 My Github Profile Statistics </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
