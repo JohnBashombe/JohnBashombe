@@ -22,9 +22,9 @@
 
 ## 🛠️ My Skills
 
-##### 👉 Programming languages: <i> TypeScript & JavaScript & Java & Rust & Solidity & PHP & Dart </i>
-##### 👉 Backend Technology:<i> Node JS Express & Java Swing </i>
-##### 👉 Frontend Technology: <i> Next JS & React JS & Flutter </i>
+- 👉 Programming languages: TypeScript & JavaScript & Java & Rust & Solidity & PHP & Dart
+- 👉 Backend Technology: Node JS Express & Java Swing
+- 👉 Frontend Technology: Next JS & React JS & Flutter
 
 <br/>
 
