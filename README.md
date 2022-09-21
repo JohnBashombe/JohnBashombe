@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <br>
 
 ## :sassy_man:  About me
@@ -39,23 +33,14 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages: 
- - TypeScript 
- - JavaScript
+ - TypeScript & JavaScript & Java & Rust & Solidity & PHP & Dart
 
 ### 👉 Backend Technology: 
-- Node JS Express
+- Node JS Express & Java Swing
 
 ### 👉 Frontend Technology: 
-- Next JS
-- React JS
+- Next JS & React JS & Flutter
 
- ### 👉 IDE: 
- - Visual Studio Code
- 
- ### 👉 Operating Systems: 
- - Ubuntu
- - Windows
- 
 <br/>
 
   <div>
