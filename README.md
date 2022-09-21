@@ -20,9 +20,6 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/ntavigwa-bashombe/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="bashombe" height="30"/></a>
       <a href="https://mailto:ntavigwabashombe@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="bashombe" height="30"/></a>
@@ -46,10 +43,6 @@
   <div>
     <h2 align="center"> 📊 My Github Profile Statistics </h2>
       <br/>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBashombe&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="JohnBashombe :: Top Langs" /></a>
-        </p>
         <p align="center">
           <a href="https://github.com/JohnBashombe/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=gruvbox&hide_border=true" />
