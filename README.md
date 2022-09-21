@@ -3,18 +3,12 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer;Mobile+App+Developer;React+Developer;Next+JS+Developer;Java+Developer;Node+JS+Developer;PHP+Developer;Dart+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
 </div>
 
-<br>
-
 ## :sassy_man:  About me
-- :school: I am a `Alumni` at Faculty of Science & Technology at International University of East Africa
+- :student: I am a `Alumni` at Faculty of Science & Technology at International University of East Africa
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer
-- :student: I’m currently learning: `Machine Learning`
-<br>
-
+- :computer: I am a competitive programmer and always eager to learn more.
 
 <div>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -29,14 +23,9 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages: 
- - TypeScript & JavaScript & Java & Rust & Solidity & PHP & Dart
-
-### 👉 Backend Technology: 
-- Node JS Express & Java Swing
-
-### 👉 Frontend Technology: 
-- Next JS & React JS & Flutter
+##### 👉 Programming languages: <i> TypeScript & JavaScript & Java & Rust & Solidity & PHP & Dart </i>
+##### 👉 Backend Technology:<i> Node JS Express & Java Swing </i>
+##### 👉 Frontend Technology: <i> Next JS & React JS & Flutter </i>
 
 <br/>
 
