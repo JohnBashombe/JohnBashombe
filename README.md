@@ -11,9 +11,8 @@
 - :computer: I am a competitive programmer and always eager to learn more.
 
 <div>
-    <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
+    <h2 align="left">😎 You can reach me by:</h2>
+    <p align="left">
       <a href="https://mailto:ntavigwabashombe@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="bashombe" height="30"/></a>
@@ -30,7 +29,7 @@
 <br/>
 
   <div>
-    <h2 align="center"> 📊 My Github Profile Statistics </h2>
+    <h2 align="center"> 📊 My Github Statistics </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/JohnBashombe/">
