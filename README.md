@@ -1,7 +1,14 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm John Bashombe</h1>
-  <p align="center">
-  I do love programming
+  <p align="justify">
+  <small>
+  I'm a software developer, <br/> 
+  I enjoy challenging and technically interesting software development.
+  I love building anything from small side projects to complex themes and intents. My one interest is in improving myself. I get excited about creating beautiful, functional, and fun products. <br/>
+  I'm a skilled and efficient software engineer who has built a variety of web applications on several platforms. I'm driven to create things that solve practical problems. I can work autonomously and collaborate with other developers to bring your projects to life.
+  I have a passion for exploring new ideas and ways of doing things. This has manifested itself in my desire to learn new programming languages, technology stacks and software development practices. <br/>
+  I've been working with programming and software development for more than 4 years. I've worked on large digital products and on small web applications. I specialize in mobile and web app development, as well as in design and UX and Forex Trading.
+  </small>
 </p>
 </div>
 
