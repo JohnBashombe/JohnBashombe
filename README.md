@@ -20,6 +20,9 @@
 
 <div>
     <h2 align="left">🤙 Let's get in touch</h2>
+    <p>
+    Take advantage of this opportunity to connect with a hardworking and committed developer who consider himself driven and passionate about the work he does. I do offer a fun and collaborative workplace that combines opportunities for professional growth.
+    </p>
     <p align="left">
       <a href="https://mailto:ntavigwabashombe@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
