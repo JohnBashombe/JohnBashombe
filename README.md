@@ -34,10 +34,13 @@
 
 ## 🛠️ My Skills
 
-- 🚀 Programming languages: 💯 TypeScript - 💯 JavaScript - 💯 Java - Rust - Solidity - 💯 PHP & Dart
-- 🚀 Backend Technology: 💯 Node JS Express
-- 🚀 Frontend Technology: 💯 Next JS & 💯 React JS & Flutter
-- 🚀 Database: 💯 MySQL & 💯 Firebase & MongoDB
+🚀 I have extensive experience in TypeScript, JavaScript Java and PHP, to name a few. I am also trained in Solutions Architecture, Data Science and Agile methodologies. 
+I usually work on a variety of projects and cover all domains. On one hand you will have web-based apps, on the other hand perhaps you need to write logic for your application or connect a third party service to it.
+I will be doing all the programming related to the project. It could be anything from Blogging, creating back-end example website, Admin dashboard and other tweaks to make the project work out properly.
+
+These are the tools I use while developing a product.
+
+<img width="24px" src="https://ik.imagekit.io/ntavigwa/icons/typescript_q7l5a4DnA.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726044372" /> <img width="24px" src="https://ik.imagekit.io/ntavigwa/icons/javascript_8zDHZvpCY.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726038570" /> <img width="24px" src="https://ik.imagekit.io/ntavigwa/icons/java__WIt7Ze3v.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726038463" /> <img width="24px" src="https://ik.imagekit.io/ntavigwa/icons/nodejs_Tcmund0tR2.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726041004" /> <img width="24px" src="https://ik.imagekit.io/ntavigwa/icons/laravel_sMbek__u2.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726039001" /> <img width="24px" src="https://ik.imagekit.io/ntavigwa/icons/flutter_OfTWwPOUo.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726036806" />
 
 <br/>
 
