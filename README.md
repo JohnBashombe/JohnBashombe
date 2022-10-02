@@ -23,7 +23,8 @@
     <p align="left">
       <a href="https://mailto:ntavigwabashombe@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="bashombe" height="30"/></a>
+         alt="bashombe" height="30"/>
+         </a>
     </p>
 </div>
 
