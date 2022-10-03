@@ -19,7 +19,7 @@
 - 👴 I have about 4 years of experience in Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP MongoDB and Linux.
 
 <div>
-    <h2 align="left">🤙 Let's get in touch</h2>
+    <h2 align="left">🤙 Let Us Get In Touch</h2>
     <p>
     Take advantage of this opportunity to connect with a hardworking and committed developer who consider himself driven and passionate about the work he does. I do offer a fun and collaborative workplace that combines opportunities for professional growth.
     </p>
