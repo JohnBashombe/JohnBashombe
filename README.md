@@ -12,7 +12,7 @@
 </p>
 </div>
 
-## 😎  About me
+## 😎  More About Me
 - 👨‍🎓 I am a Alumni at Faculty of Science & Technology at International University of East Africa.
 - 🖥️ All of my projects are built with the goal to make software more accessible to people who could not use it before.
 - 🧑‍💻 I am a competitive programmer, always eager to learn more and explore new technologies.
