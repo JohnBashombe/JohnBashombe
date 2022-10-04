@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ntavigwa Bashombe</h1>
   <p align="justify">
   <small>
-  I'm a 💯 software developer🖥️, <br/> 
+  I'm a 💯 <b>Software Developer</b>🖥️, <br/> 
   I enjoy challenging 👷 and technically interesting software development projects.
   I love building anything from small side projects to complex themes and intents. My one interest is in improving myself 😎. I get excited 🤩 about creating beautiful, functional, and fun products.
   I'm a skilled and efficient software engineer who has built a variety of web applications on several platforms. I'm driven to create things that solve practical problems. I can work autonomously and collaborate with other developers to bring your projects to life.
@@ -13,7 +13,7 @@
 </div>
 
 ## 😎  More About Me
-- 👨‍🎓 I am a Alumni at Faculty of Science & Technology at International University of East Africa.
+- 👨‍🎓 I am a Alumni at <b>Faculty of Science & Technology in Computer Science ( 3 Years ) </b> at International University of East Africa.
 - 🖥️ All of my projects are built with the goal to make software more accessible to people who could not use it before.
 - 🧑‍💻 I am a competitive programmer, always eager to learn more and explore new technologies.
 - 👴 I have about 4 years of experience in <b>Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP, SQL, Firebase, MongoDB and Linux.</b>
