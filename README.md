@@ -7,7 +7,7 @@
   I love building anything from small side projects to complex themes and intents. My one interest is in improving myself 😎. I get excited 🤩 about creating beautiful, functional, and fun products.
   I'm a skilled and efficient software engineer who has built a variety of web applications on several platforms. I'm driven to create things that solve practical problems. I can work autonomously and collaborate with other developers to bring your projects to life.
   I have a passion for exploring new ideas 💡 and ways of doing things. This has manifested itself in my desire to learn new programming languages, technology stacks 👨‍💻 and software development practices. <br/>
-  I've been working with programming and software development for more than 4 years. I've worked on large digital products and on small web applications. I specialize in mobile 📱 and web app development 🌐, as well as in design 🎨 and UX and Forex Trading 📈.
+  I've been working with programming and software development for <b>more than 4 years</b>. I've worked on large digital products and on small web applications. I specialize in mobile 📱 and web app development 🌐, as well as in design 🎨 and UX and Forex Trading 📈.
   </small>
 </p>
 </div>
@@ -16,7 +16,7 @@
 - 👨‍🎓 I am a Alumni at Faculty of Science & Technology at International University of East Africa.
 - 🖥️ All of my projects are built with the goal to make software more accessible to people who could not use it before.
 - 🧑‍💻 I am a competitive programmer, always eager to learn more and explore new technologies.
-- 👴 I have about 4 years of experience in Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP MongoDB and Linux.
+- 👴 I have about 4 years of experience in <b>Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP, SQL, Firebase, MongoDB and Linux.</b>
 
 <div>
     <h2 align="left">🤙 Let Us Get In Touch</h2>
@@ -33,7 +33,7 @@
 
 ## 🛠️ My Skills
 
-🚀 I have extensive experience in TypeScript, JavaScript Java and PHP, to name a few. I am also trained in Solutions Architecture, Data Science and Agile methodologies. 
+🚀 I have extensive experience in <b>TypeScript, JavaScript Java and PHP</b>, to name a few. I am also trained in <b>Solutions Architecture, Data Science and Agile methodologies</b>. 
 I usually work on a variety of projects and cover all domains. On one hand you will have web-based apps, on the other hand perhaps you need to write logic for your application or connect a third party service to it.
 I will be doing all the programming related to the project. It could be anything from Blogging, creating back-end example website, Admin dashboard and other tweaks to make the project work out properly.
 
