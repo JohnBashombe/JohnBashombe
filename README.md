@@ -28,6 +28,10 @@
     <p align="left">
       <a href="mailto:ntavigwabashombe@gmail.com" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="bashombe" height="30"/>
+      </a>  <a href="https://twitter.com/ntavigwa" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://ik.imagekit.io/ntavigwa/icons/twitter_rA-qG_QIF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726046532" alt="bashombe" height="30"/>
+      </a> <a href="https://www.linkedin.com/in/ntavigwa-bashombe/" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://ik.imagekit.io/ntavigwa/icons/linkedin_UQLSbTWD7.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040292" alt="bashombe" height="30"/>
       </a>
     </p>
 </div>
