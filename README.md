@@ -13,10 +13,9 @@
 </div>
 
 ## 😎  More About Me
-- 👨‍🎓 I am a Alumni at 
-     <b> <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
+- 👨‍🎓 I am a Alumni at <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
       Faculty of Science & Technology in Computer Science ( 3 Years ) 
-      </a></b>  at International University of East Africa.
+      </a>  at International University of East Africa.
 - 🖥️ All of my projects are built with the goal to make software more accessible to people who could not use it before.
 - 🧑‍💻 I am a competitive programmer, always eager to learn more and explore new technologies.
 - 👴 I have about 4 years of experience in <b>Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP, SQL, Firebase, MongoDB and Linux.</b>
