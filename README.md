@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ntavigwa Bashombe</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kagayo Joffrey</h1>
   <p align="justify">
   <small>
   I'm a 💯 <b>Software Developer</b>🖥️, <br/> 
