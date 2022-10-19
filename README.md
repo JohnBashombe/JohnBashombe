@@ -12,7 +12,7 @@
 </p>
 </div>
 
-## 😎  More About Me
+## 😎  More About Myself
 - 👨‍🎓 I am a Alumni at<b> <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
       Faculty of Science & Technology in Computer Science ( 3 Years ) 
       </a> </b>  at International University of East Africa.
