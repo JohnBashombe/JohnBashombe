@@ -16,14 +16,14 @@
 - 👨‍🎓 I am a Alumni at<b> <a href="https://iuea.ac.ug/Graduation/sitepad-data/uploads//2022/06/GradLists-2019.pdf" target="_blank" rel="noopener noreferrer">
       Faculty of Science & Technology in Computer Science ( 3 Years ) 
       </a> </b>  at International University of East Africa.
-- 🖥️ All of my projects are built with the goal to make software more accessible to people who could not use it before.
+- 🖥️ All of my projects are built with the goal to make the software more accessible to people who could not use it before.
 - 🧑‍💻 I am a competitive programmer, always eager to learn more and explore new technologies.
-- 👴 I have about 4 years of experience in <b>Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP, SQL, Firebase, MongoDB and Linux.</b>
+- 👴 I have about 4 years of experience in <b>Java, JavaScript, Typescript, Next JS, React JS, Node JS, MySQL, Java, Rust, Dart, Solidity, PHP, SQL, Firebase, MongoDB, and Linux.</b>
 
 <div>
     <h2 align="left">🤙 Let Us Get In Touch</h2>
     <p>
-    Take advantage of this opportunity to connect with a hardworking and committed developer who consider himself driven and passionate about the work he does. I do offer a fun and collaborative workplace that combines opportunities for professional growth.
+    Take advantage of this opportunity to connect with a hardworking and committed developer who considers himself driven and passionate about the work he does. I do offer a fun and collaborative workplace that combines opportunities for professional growth.
     </p>
     <p align="left">
       <a href="mailto:ntavigwabashombe@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -39,9 +39,9 @@
 
 ## 🛠️ My Skills
 
-🚀 I have extensive experience in <b>TypeScript, JavaScript Java and PHP</b>, to name a few. I am also trained in <b>Solutions Architecture, Data Science and Agile methodologies</b>. 
-I usually work on a variety of projects and cover all domains. On one hand you will have web-based apps, on the other hand perhaps you need to write logic for your application or connect a third party service to it.
-I will be doing all the programming related to the project. It could be anything from Blogging, creating back-end example website, Admin dashboard and other tweaks to make the project work out properly.
+🚀 I have extensive experience in <b>TypeScript, JavaScript Java and PHP</b>, to name a few. I am also trained in <b>Solutions Architecture, Data Science, and Agile methodologies</b>. 
+I usually work on a variety of projects and cover all domains. On one hand, you will have web-based apps, on the other hand perhaps you need to write the logic for your application or connect a third-party service to it.
+I will be doing all the programming related to the project. It could be anything from Blogging, creating a back-end example website, Admin dashboard, and other tweaks to make the project work out properly.
 
 These are the tools I normally use while working on a particular product.
 
