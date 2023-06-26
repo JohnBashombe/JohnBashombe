@@ -49,9 +49,8 @@ These are the tools I normally use while working on a particular product.
 <br/>
   <div>
     <h2 align="left"> 📊 My Statistics </h2>
-        <p align="center">
+        <p align="left">
           <a href="https://github.com/JohnBashombe/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=white&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnBashombe&theme=white&hide_border=true" />
           </a>
        </p>
