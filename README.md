@@ -45,15 +45,6 @@ I will be doing all the programming related to the project. It could be anything
 
 These are the tools I normally use while working on a particular product.
 
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/typescript_q7l5a4DnA.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726044372" />    <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/javascript_8zDHZvpCY.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726038570" /> <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/java__WIt7Ze3v.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726038463" /> <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nodejs_Tcmund0tR2.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726041004" />  <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/laravel_sMbek__u2.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726039001" />  <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/flutter_OfTWwPOUo.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726036806" />   <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/react_mD2adIumst.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726042398" />  <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nodejs_Tcmund0tR2.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726041004" />  <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nextjs_VEQUm0fXgb.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040674" /> <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/java__WIt7Ze3v.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726038463" />   <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/figma_XaLkE_ZjJ.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726036834" />  <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/firebase_FSCaGjDe5.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726036508" />  
-<br/>
-  <div>
-    <h2 align="left"> 📊 My Statistics </h2>
-        <p align="left">
-          <a href="https://github.com/JohnBashombe/">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnBashombe&theme=white&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-  
+<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/typescript_q7l5a4DnA.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726044372" />    
+<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/flutter_OfTWwPOUo.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726036806" />  
+<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nextjs_VEQUm0fXgb.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040674" /> 
