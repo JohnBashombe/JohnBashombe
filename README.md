@@ -26,7 +26,7 @@
 
 ## 🛠️ My Skills
 
-I specialize in frontend development with Next.js, React.js, and Flutter, as well as backend development using Node.js, PHP, and Java. Versatile and skilled in multiple technologies for building user-friendly interfaces and robust server-side applications.
+I specialize in frontend development with Next.js, React.js, and Flutter, as well as backend development using Node.js, PHP, and Java.
 <p>
 <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/typescript_q7l5a4DnA.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726044372" />    
 <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nodejs_Tcmund0tR2.svg?updatedAt=1664726041004" /> 
