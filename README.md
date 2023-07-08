@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
   <p align="justify">
   <small>
-    I am a software developer with 4+ years of professional experience. Passionate, efficient, and always up-to-date with the latest technologies. A valuable asset to any team.
+    I am a software developer. Passionate, efficient, and always up-to-date with the latest technologies. A valuable asset to any team.
    </small>
 </p>
 </div>
