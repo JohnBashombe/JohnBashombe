@@ -32,7 +32,6 @@ I specialize in frontend development with Next.js, React.js, and Flutter, as wel
 <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/typescript_q7l5a4DnA.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726044372" />    
 <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nodejs_Tcmund0tR2.svg?updatedAt=1664726041004" /> 
 <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/react_mD2adIumst.svg?updatedAt=1664726042398" /> 
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nextjs_VEQUm0fXgb.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040674" /> 
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/flutter_OfTWwPOUo.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726036806" />  
+<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nextjs_VEQUm0fXgb.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040674" />  
 <img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/java__WIt7Ze3v.svg?updatedAt=1664726038463" />  
 </p>
