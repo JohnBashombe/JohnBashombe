@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, <br /> I'm John Bash</h1>
-  <h3>Full-Stack Developer | Frontend & Backend Enthusiast</h3>
+  <h3>Full-Stack Developer | Frontend & Backend</h3>
 </div>
 
 <br/>
