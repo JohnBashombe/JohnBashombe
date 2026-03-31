@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm John Bash! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
+  <h1>Hi, <br /> I'm John Bash</h1>
   <h3>Full-Stack Developer | Frontend & Backend Enthusiast</h3>
 </div>
 
@@ -29,7 +29,7 @@ I specialize in frontend development with Next.js, React.js, and Flutter, as wel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=tokyonight&hide_border=true" alt="John Bash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="John Bash's GitHub Stats" />
 </div>
 
 <br/>
