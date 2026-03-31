@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on **AI systems**
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Next.js, React, Flutter, Node.js, and Java**
-- ⚡ Fun fact: **The Python programming language was actually named after the British comedy troupe Monty Python, not the snake! 🐍**
 
 <br/>
 
