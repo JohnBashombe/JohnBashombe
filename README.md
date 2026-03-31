@@ -1,31 +1,51 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
+  <h1>Hi there, I'm John Bash! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
+  <h3>Full-Stack Developer | Frontend & Backend Enthusiast</h3>
 </div>
 
-<div>
-    <h2 align="left">🤙 Let Us Get In Touch</h2>
-    <p>
-      Feel free to get in touch with me through the following channels:
-    </p>
-    <p align="left">
-      <a href="mailto:ntavigwabashombe@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="bashombe" height="30"/>
-      </a>    <a href="https://twitter.com/ntavigwa" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://ik.imagekit.io/ntavigwa/icons/twitter_rA-qG_QIF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726046532" alt="bashombe" height="30"/>
-      </a>  <a href="https://www.linkedin.com/in/ntavigwa-bashombe/" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://ik.imagekit.io/ntavigwa/icons/linkedin_UQLSbTWD7.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040292" alt="bashombe" height="30"/>
-      </a>
-    </p>
-</div>
+<br/>
 
+## 👨‍💻 About Me
 
-## 🛠️ My Skills
+- 🔭 I’m currently working on **AI systems**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Next.js, React, Flutter, Node.js, and Java**
+- ⚡ Fun fact: **The Python programming language was actually named after the British comedy troupe Monty Python, not the snake! 🐍**
+
+<br/>
+
+## 🛠️ Tech Stack & Skills
 
 I specialize in frontend development with Next.js, React.js, and Flutter, as well as backend development using Node.js, PHP, and Java.
-<p>
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/typescript_q7l5a4DnA.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726044372" />    
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nodejs_Tcmund0tR2.svg?updatedAt=1664726041004" /> 
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/react_mD2adIumst.svg?updatedAt=1664726042398" /> 
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/nextjs_VEQUm0fXgb.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664726040674" />  
-<img width="30px" src="https://ik.imagekit.io/ntavigwa/icons/java__WIt7Ze3v.svg?updatedAt=1664726038463" />  
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,flutter,nodejs,php,java,mysql,git,vscode,python" alt="My Skills" />
+  </a>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=tokyonight&hide_border=true" alt="John Bash's GitHub Stats" />
+</div>
+
+<br/>
+
+## 🤙 Let's Connect
+
+Feel free to get in touch with me through the following channels:
+
+<p align="left">
+  <a href="mailto:ntavigwabashombe@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ntavigwa-bashombe/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ntavigwa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
