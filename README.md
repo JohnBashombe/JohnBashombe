@@ -29,7 +29,19 @@ I specialize in frontend development with Next.js, React.js, and Flutter, as wel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="John Bash's GitHub Stats" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JohnBashombe&theme=tokyonight&hide_border=true)](https://github.com/JohnBashombe)
+
+</div>
+
+<br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![John Bash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/JohnBashombe)
+
 </div>
 
 <br/>
