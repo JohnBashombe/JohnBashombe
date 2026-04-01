@@ -25,26 +25,6 @@ I specialize in frontend development with Next.js, React.js, and Flutter, as wel
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JohnBashombe&theme=tokyonight&hide_border=true)](https://github.com/JohnBashombe)
-
-</div>
-
-<br />
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![John Bash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnBashombe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/JohnBashombe)
-
-</div>
-
-<br/>
-
 ## 🤙 Let's Connect
 
 Feel free to get in touch with me through the following channels:
