@@ -5,15 +5,15 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I’m currently working on **AI systems**
-- 🌱 I’m currently learning **Python**
-- 💬 Ask me about **Next.js, React, Flutter, Node.js, and Java**
+- I’m currently working on **AI systems**
+- I’m currently learning **Python**
+- Ask me about **Next.js, React, Flutter, Node.js, and Java**
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 I specialize in frontend development with Next.js, React.js, and Flutter, as well as backend development using Node.js, PHP, and Java.
 
@@ -25,7 +25,7 @@ I specialize in frontend development with Next.js, React.js, and Flutter, as wel
 
 <br/>
 
-## 🤙 Let's Connect
+## Let's Connect
 
 Feel free to get in touch with me through the following channels:
 
